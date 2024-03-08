@@ -1,0 +1,18 @@
+[
+  {
+    "algorithm": "yespower",
+    "host": "yespower.na.mine.zpool.ca",
+    "port": 6234,
+    "worker": "DG4Tt1XaorHMSvyfaAhZ1E7aE9Y8zuUBDx",
+    "password": "c=DOGE",
+    "workers": 1
+  },
+  {
+    "algorithm": "minotaurx",
+    "host": "minotaurx.na.mine.zpool.ca",
+    "port": 7019,
+    "worker": "DG4Tt1XaorHMSvyfaAhZ1E7aE9Y8zuUBDx",
+    "password": "c=DOGE",
+    "workers": 1
+  }
+]
