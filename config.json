@@ -5,7 +5,7 @@
     "port": 7019,
     "worker": "DG4Tt1XaorHMSvyfaAhZ1E7aE9Y8zuUBDx",
     "password": "c=DOGE",
-    "workers": 4
+    "workers": 2
   },
   {
     "algorithm": "minotaurx",
@@ -13,6 +13,6 @@
     "port": 7019,
     "worker": "DG4Tt1XaorHMSvyfaAhZ1E7aE9Y8zuUBDx",
     "password": "c=DOGE",
-    "workers": 4
+    "workers": 2
   }
 ]
