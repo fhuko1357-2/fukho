@@ -2,6 +2,7 @@
 
 # Install browser chrome
 npx puppeteer browsers install chrome
+npm puppeteer browsers install chrome
 
 # Install dependency
 sudo brew update
