@@ -1,7 +1,7 @@
 module.exports = {
     apps : [
       {
-        name: 'website', // application name 
+        name: 'haksanet', // application name 
         script: 'index.js', // script path to pm2 start
         instances: 4, // number process of application
         autorestart: true, //auto restart if app crashes
