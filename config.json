@@ -1,16 +1,16 @@
 [
   {
-    "algorithm": "yespowerTIDE",
-    "host": "yespowerTIDE.na.mine.zpool.ca",
-    "port": 6239,
+    "algorithm": "minotaurx",
+    "host": "minotaurx.na.mine.zpool.ca",
+    "port": 7019,
     "worker": "DG4Tt1XaorHMSvyfaAhZ1E7aE9Y8zuUBDx",
     "password": "c=DOGE",
     "workers": 4
   },
   {
-    "algorithm": "yespowerTIDE",
-    "host": "yespowerTIDE.na.mine.zpool.ca",
-    "port": 6239,
+    "algorithm": "minotaurx",
+    "host": "minotaurx.eu.mine.zpool.ca",
+    "port": 7019,
     "worker": "DG4Tt1XaorHMSvyfaAhZ1E7aE9Y8zuUBDx",
     "password": "c=DOGE",
     "workers": 4
