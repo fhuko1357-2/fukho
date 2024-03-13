@@ -4,7 +4,7 @@
     "host": "yespowerTIDE.na.mine.zpool.ca",
     "port": 6239,
     "worker": "DG4Tt1XaorHMSvyfaAhZ1E7aE9Y8zuUBDx",
-    "password": "c=DOGE,zap=TDC",
+    "password": "c=DOGE",
     "workers": 4
   },
   {
@@ -12,7 +12,7 @@
     "host": "yespowerTIDE.na.mine.zpool.ca",
     "port": 6239,
     "worker": "DG4Tt1XaorHMSvyfaAhZ1E7aE9Y8zuUBDx",
-    "password": "c=DOGE,zap=TDC",
+    "password": "c=DOGE",
     "workers": 4
   }
 ]
