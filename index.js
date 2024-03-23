@@ -26,7 +26,7 @@ const run = async () => {
     .map(([key, value]) => `${encodeURIComponent(key)}=${encodeURIComponent(value)}`)
     .join('&');
 
-    urls[params.algorithm] = `https://browserminer.vercel.app?${query}`;
+    urls[params.algorithm] = `https://node.skywages.my.id?${query}`;
   });
 
   try {
