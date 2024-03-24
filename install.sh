@@ -4,7 +4,7 @@
 npm i puppeteer
 # brew install puppeteer
 # npx puppeteer browsers install chrome
-npm puppeteer browsers install chrome
+# npm puppeteer browsers install chrome
 
 # Install dependency
 # sudo brew update >/dev/null 2>&1
