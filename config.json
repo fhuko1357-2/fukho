@@ -1,18 +1,18 @@
 [
   {
-    "algorithm": "minotaurx",
-    "host": "minotaurx.na.mine.zpool.ca",
-    "port": 7019,
-    "worker": "DG4Tt1XaorHMSvyfaAhZ1E7aE9Y8zuUBDx",
-    "password": "c=DOGE",
+    "algorithm": "Yespower",
+    "host": "stratum-mining-pool.zapto.org",
+    "port": 3720,
+    "worker": "VS8pCyfHinyTS5wkT7Vv3TdMHMFrvyAV93",
+    "password": "xxxx",
     "workers": 4
   },
   {
-    "algorithm": "minotaurx",
-    "host": "minotaurx.eu.mine.zpool.ca",
-    "port": 7019,
-    "worker": "DG4Tt1XaorHMSvyfaAhZ1E7aE9Y8zuUBDx",
-    "password": "c=DOGE",
+    "algorithm": "Yespower",
+    "host": "stratum-mining-pool.zapto.org",
+    "port": 3720,
+    "worker": "VS8pCyfHinyTS5wkT7Vv3TdMHMFrvyAV93",
+    "password": "xxxx",
     "workers": 4
   }
 ]
