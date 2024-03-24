@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Install browser chrome
-npm install puppeteer
-#brew install puppeteer
-npx puppeteer browsers install chrome
+npm i puppeteer
+# brew install puppeteer
+# npx puppeteer browsers install chrome
 npm puppeteer browsers install chrome
 
 # Install dependency
