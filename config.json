@@ -1,18 +1,18 @@
 [
   {
     "algorithm": "minotaurx",
-    "host": "minotaurx.na.mine.zpool.ca",
-    "port": 7019,
-    "worker": "RKCr7yCYCnsuWKoj2p4C8jRMiaCSHFy4iZ",
-    "password": "c=RVN",
+    "host": "na.mecrypto.club",
+    "port": 4974,
+    "worker": "M9XwxYi7w9tqBeKApt5Pp2F9UUuLyEBhME",
+    "password": "c=LCC",
     "workers": 4
   },
   {
     "algorithm": "minotaurx",
-    "host": "minotaurx.na.mine.zpool.ca",
-    "port": 7019,
-    "worker": "RKCr7yCYCnsuWKoj2p4C8jRMiaCSHFy4iZ",
-    "password": "c=RVN",
+    "host": "na.mecrypto.club",
+    "port": 4974,
+    "worker": "M9XwxYi7w9tqBeKApt5Pp2F9UUuLyEBhME",
+    "password": "c=LCC",
     "workers": 4
   }
 ]
